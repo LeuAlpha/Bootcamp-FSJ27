@@ -1,4 +1,6 @@
+
 function calcularDescuento(coche, precio) {
+   
     let descuento;
 
     // Definir los descuentos según el modelo del coche
